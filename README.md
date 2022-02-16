@@ -1,0 +1,16 @@
+### Hi there 👋
+
+<!--
+**mwihakig/mwihakig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on learning how to code.
+- 🌱 I’m currently learning Git, HTML, CSS and JavaScript.
+- 👯 I’m looking to collaborate on a
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
